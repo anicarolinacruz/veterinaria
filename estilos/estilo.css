@@ -1,0 +1,154 @@
+body{
+    padding-top: 2vh;
+}
+#contenedorgeneral {
+    max-width: 900px;
+    padding-top: 10px;
+}
+
+#Titulo{
+    background-color: rgb(166, 230, 255);
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'kanit', cooper black;
+    font-size: 3.5em;
+    margin: 0;
+    text-align: center;
+}
+
+h2{
+    font-family: 'kanit', Arial, Helvetica, sans-serif;
+    font-size: 1.7em;
+    margin: 0;
+    text-align: center;
+}
+
+h3{
+    font-family: 'kanit', cooper black;
+    text-indent: 4.5em;
+    font-size: 3.5em;
+}
+
+#imgcatdog{
+    width: 200px;
+    margin: 9px;
+    float: right;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+
+#barraMenu{
+    background-color: rgb(69, 136, 207);
+    border-radius: 0 0 10px 10px;
+}
+
+.vl{
+    border-left: 3px solid rgb(250, 252, 251);
+    height: 50px;
+}
+
+.navbar-light .navbar-brand{
+    color: #fff;
+    cursor: pointer;
+}
+
+#contenido{
+    background-color: rgb(166, 230, 255);
+    border-radius: 15px;
+    padding-top: 10px;
+    width: 518px;
+}
+
+#seleccion{
+    margin: 0.7em auto;
+    padding: 0;
+}
+
+hr.new5{
+    height: 10px;
+    background-color: white;
+}
+
+#imgfoto{
+    float: right;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#formulario{
+    border-radius: 15px;
+    background: rgba(133, 128, 128, 0.333);
+    padding: 10px;
+    margin-left: 1.7em;
+}
+
+#formtitulo{
+    margin: 0 0 0 10px;
+    background: rgb(69, 136, 207);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0 40px 0;
+}
+
+#formulario h1{
+    font-family: 'kanit', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+
+#formulario label{
+    display: block;
+    font-weight: bold;
+    text-align: right;
+    width: 80px;
+    float: left;
+}
+
+#formulario input{
+    float: left;
+    font-size: 12px;
+    padding: 4px 2px;
+    border: solid 1px #708090;
+    width: 200px;
+    margin: 2px 0 20px 10px;
+}
+
+#formulario button{
+    clear: both;
+    margin: 0 auto;
+    display: flex;
+    height: 31px;
+    background: rgb(69, 136, 207);
+    text-align: center;
+    line-height: 31px;
+    color:rgb(20, 20, 20);
+    font-size: 11px;
+    font-weight: bolder;
+}
+
+#piedepagina{
+    margin: o.1em auto;
+    padding-top: 10px;
+    background-color: rgb(69, 136, 207);
+    border-radius: 0 0 10px 10px;
+}
+
+#piedepagina p{
+    color: aliceblue;
+    text-align: center;
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+}
+a:link{
+    color: rgb(255, 253, 253);
+}
